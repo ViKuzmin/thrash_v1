@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="tessdata-main1">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/../../JavaLibrary/tessdata-main" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../JavaLibrary/tessdata-main" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../JavaLibrary/tessdata-main" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../JavaLibrary/tessdata-main" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../JavaLibrary/tessdata-main" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../JavaLibrary/tessdata-main" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../JavaLibrary/tessdata-main" recursive="false" type="SOURCES" />
+  </library>
+</component>
